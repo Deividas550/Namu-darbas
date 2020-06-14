@@ -1,0 +1,92 @@
+/*body*/
+body	{
+	width: 500px;
+}
+
+/*countainer*/
+
+.container	{
+	border: 15px solid #bfbfbf;
+	background-color: #bfbfbf;
+}
+
+/*h1*/
+
+h1	{
+	color: #4d4d4d;
+	padding: 15px;
+	background-color: #ebebeb;
+}
+
+/*p spalvinimas*/
+
+p	{
+	color: #ffffff;
+	padding: 3px;
+	margin: 0;
+
+}
+
+.first	{
+	background-color: #3377ff;
+}
+
+.second	{
+	background-color: #4d88ff;
+}
+
+.third	{
+	background-color: #6699ff;
+}
+
+.fourth	{
+	background-color: #80aaff;
+}
+
+.fifth	{
+	background-color: #99bbff;
+}
+
+.sixth	{
+	background-color: #b3ccff;
+}
+
+.second	{
+	background-color: #4d88ff;
+}
+
+.seventh	{
+	background-color: #ccddff;
+}
+
+.eight	{
+	background-color: #12ba55;
+}
+
+.nine	{
+	background-color: #fecdcd;
+}
+
+.ten	{
+	background-color: #fdb4b4;
+}
+
+.eleven	{
+	background-color: #fdaaaa;
+}
+
+.twelve	{
+	background-color: #fc9c9c;
+}
+
+.thirteen	{
+	background-color: #fc8383;
+}
+
+.fourteen	{
+	background-color: #fb6a6a;
+}
+
+.fifteen	{
+	background-color: #fb5151;
+}
