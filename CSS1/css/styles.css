@@ -1,0 +1,27 @@
+/*h1/h2*/
+h1 {
+	color: #eb608f;
+}
+
+h2	{
+	color: #eb608f;
+}
+
+/*em*/
+#vegetable {
+	font-style: italic;
+}
+
+/*boarder first/second par*/
+#first	{
+	width: 500px;
+}
+
+#second	{
+	width: 500px;
+}
+
+/*second par opacity*/
+.secondpar	{
+	opacity: 0.6;
+}
