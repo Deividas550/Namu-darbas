@@ -1,0 +1,59 @@
+/*font*/
+body	{
+	font-style: italic;
+	font-size: 20px;
+}
+
+/* fieldset editing*/
+#first-fieldset	{
+	background-color: #faf4cd;
+	border-radius: 5px;
+	
+	
+}
+
+#second-fieldset	{
+	background-color: #faf4cd;
+	border-radius: 5px;
+}
+
+/*legend edit*/
+legend	{
+	font-size: 20px;
+	
+}
+
+/*writing/choosing area color*/
+input[type=text]	{
+	background-color: #ededed;
+	border-color: #00bfff;
+}
+
+textarea	{
+	background-color: #ededed;
+	border-color: #00bfff;
+}
+
+
+select	{
+	background-color: #ededed;
+	border-color: #00bfff;
+}
+
+/*submit*/
+input[type=submit]	{
+	border-radius: 5px;
+	background: #00bfff;
+  	border: none;
+  	color: black;
+  	font-size: 20px;
+}
+
+/*text area order*/
+textarea	{
+	width: 500px;
+	padding-bottom: 100px;
+}
+
+
+
