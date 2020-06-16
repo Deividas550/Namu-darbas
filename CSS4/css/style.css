@@ -1,0 +1,56 @@
+body	{
+	font-family: courier new;
+	font-size: 15px;
+	background-color: #fcfcfd;
+	border: 5px;
+	border-style:  groove;
+
+}
+
+#everything	{
+	width: auto;
+	margin: 15px auto 15px auto;
+	padding: 15px;
+}
+
+#logo	{
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+
+ul	{
+	width: 580px;
+	padding: 10px;
+	margin: 0 auto 0 auto;
+	border-top: 2px solid black;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+li	{
+	display: inline;
+	margin: 0 4px;
+
+}
+
+#piano-text	{
+	margin: 20px auto 20px auto;
+	width: 600px;
+}
+
+p	{
+	width: 518px;
+	text-align: center;
+	margin: 20px auto 20px auto;
+}
+
+a	{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover, .main-menu	{
+	color: #e3a440;
+}
